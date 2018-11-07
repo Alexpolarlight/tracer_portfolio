@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Starter pack using gulp",
   "main": "index.js",
-  "homepage": "https://alexpolarlight.githup.io/modern_portfolio",
+  "homepage": "https://alexpolarlight.githup.io/tracer_portfolio",
   "scripts": {
     "start": "gulp",
     "deploy": "gh-pages -d dist"
